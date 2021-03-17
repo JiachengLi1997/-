@@ -138,9 +138,6 @@
 	<td><img src="./JC_L_files/robot.png" border="0" height="310"><br></td>
 	
 </ul>
-<div id="footer">
-	<div id="footer-text"></div>
-</div>
 	<center>© Jiacheng LI | Last updated: 3/2021</center>
     <!--<center>© Jiacheng_Li
     	<script type="text/javascript" language="javascript">
