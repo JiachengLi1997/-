@@ -145,6 +145,5 @@
     </center>-->
 </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=350&t=tt&d=8UOM4PdRqU8SBNymyTKtUA92RaOZZvLSa__kcDhk6hI&co=ffffff&ct=080808&cmo=ff5353&cmn=23db23'></script>
 
 </body></html>
